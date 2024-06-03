@@ -1,0 +1,23 @@
+{
+  "name": "gptdesk",
+  "version": "0.0.1",
+  "description": "A multi-GPT desktop app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesPaden/gptdesk.git"
+  },
+  "author": "James Paden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesPaden/gptdesk/issues"
+  },
+  "homepage": "https://github.com/JamesPaden/gptdesk#readme",
+  "devDependencies": {
+    "electron": "^30.0.9"
+  }
+}
